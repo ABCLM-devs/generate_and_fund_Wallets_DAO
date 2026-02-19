@@ -119,3 +119,8 @@ Ejemplo:
 - No compartas `wallets.json`.
 - Ejecuta el script en entorno seguro.
 - Si pierdes `wallets.json`, pierdes acceso a las wallets generadas.
+
+
+## Aportaciones
+
+Seguimos GitFlow, asi que branchea Develop y ahi creas un fix/ o feat/ para abrir una PR!
